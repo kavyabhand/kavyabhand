@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Vintage Typography -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=300&section=header&text=Kavya%20Bhand&fontSize=70&fontColor=d4af37&animation=twinkling&fontAlignY=38&desc=Rise+.+%20Repeat+.+%20Reign&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=300&section=header&text=Kavya%20Bhand&fontSize=70&fontColor=d4af37&animation=twinkling&fontAlignY=38&desc=++%20++%20&descAlignY=55&descSize=20"/>
 
 <!-- Vintage Ornamental Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -21,7 +21,7 @@
 <!-- About Section with Regal Styling -->
 <div align="center">
   
-### ⚜️ THE CHRONICLES ⚜️
+### ⚜️ THIS IS ME ⚜️
 
 </div>
 
@@ -31,9 +31,9 @@
 name: "Kavya"
 located_in: "Pune, Maharashtra"
 current_focus: 
-  - Full-Stack Development
-  - Machine Learning
-  - Data Structures & Algorithms
+  - Eat 
+  - Sleep 
+  - Repeat
 education: "B.Tech Computer Engineering"
 hobbies:
   - Art
@@ -42,52 +42,10 @@ hobbies:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Tech Arsenal with Icons -->
-<div align="center">
-
-### ⚔️ ARSENAL OF TECHNOLOGIES ⚔️
-
-<br/>
-
-<!-- Programming Languages -->
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp,java&theme=dark" />
-<br/><br/>
-<!-- Frameworks & Tools -->
-<img src="https://skillicons.dev/icons?i=react,nodejs,vue,django,flask&theme=dark" />
-<br/><br/>
-<!-- DevOps & Cloud -->
-<img src="https://skillicons.dev/icons?i=github&theme=dark" />
-<br/><br/>
-<!-- Databases & Tools -->
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,linux&theme=dark" />
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Stats Section with Dark Theme -->
-<div align="center">
-
-### 📜 CHRONICLES OF CONTRIBUTION 📜
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kavyabhand&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9" />
-
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 <!-- Current Focus -->
 <div align="center">
 
-### ⚡ CURRENT EXPEDITIONS ⚡
+### ⚡ THIS IS A GRAPH ⚡
 
 <br/>
 
@@ -115,7 +73,7 @@ hobbies:
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=d4af37&color=0d1117" />
 </a> -->
 <a href="mailto:kavya.bhand0806@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=d4af37&color=0d1117" />
+   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=d4af37&color=0d1117" /> 
 </a>
 <!-- <a href="https://YOUR_PORTFOLIO">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=d4af37&color=0d1117" />
@@ -136,11 +94,6 @@ hobbies:
 
 <br/>
 
-
-<!-- Footer with Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=footer&text=Thank%20You&fontSize=40&fontColor=d4af37&animation=twinkling"/>
-
----
 
 <div align="center">
   
