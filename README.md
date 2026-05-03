@@ -1,6 +1,7 @@
 <div align="center">
 
-![header](https://raw.githubusercontent.com/kavyabhand/kavyabhand/main/header-light.svg)
+![header](https://github.com/kavyabhand/kavyabhand/blob/main/header-dark.svg)
+
 
 </div>
 
