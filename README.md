@@ -21,13 +21,13 @@
 
 <div align="center">
 
-![streak](https://streak-stats.demolab.com/?user=kavyabhand&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700&background=FDF6F0&ring=C9A0A0&fire=C9A0A0&currStreakLabel=9B8B9B&sideLabels=9B8B9B&dates=9B8B9B&currStreakNum=4A3F5C&totalLabel=9B8B9B&sideNums=4A3F5C&stroke=F7EDF4)
+![streak](https://streak-stats.demolab.com/?user=kavyabhand&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700&background=14061c&ring=ff3f87&fire=ff3f87&currStreakLabel=cbb6dd&sideLabels=cbb6dd&dates=cbb6dd&currStreakNum=f5eaff&totalLabel=cbb6dd&sideNums=f5eaff&stroke=2a0f3a)
 
 </div>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyabhand&bg_color=1a0823&color=f1e4ff&line=ff3f87&point=ff6aa6&area=true&area_color=2d1240&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyabhand&bg_color=14061c&color=f5eaff&line=ff3f87&point=ff6aa6&area=true&area_color=2a0f3a&hide_border=true" width="100%"/>
 
 <br/>
 
@@ -45,10 +45,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b8c8e8?style=flat-square&logo=linkedin&logoColor=4A3F5C)](https://www.linkedin.com/in/kavya-bhand-786116277/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2a0f3a?style=flat-square&logo=linkedin&logoColor=ff6aa6)](https://www.linkedin.com/in/kavya-bhand-786116277/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-f2c4ce?style=flat-square&logo=gmail&logoColor=4A3F5C)](mailto:kavya.bhand0806@gmail.com)
+[![Email](https://img.shields.io/badge/Email-2a0f3a?style=flat-square&logo=gmail&logoColor=ff6aa6)](mailto:kavya.bhand0806@gmail.com)
 &nbsp;
-![views](https://komarev.com/ghpvc/?username=kavyabhand&style=flat-square&color=c9b8d8&label=views)
+![views](https://komarev.com/ghpvc/?username=kavyabhand&style=flat-square&color=ff3f87&label=views)
 
 </div>
