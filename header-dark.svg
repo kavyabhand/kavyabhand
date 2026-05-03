@@ -1,0 +1,40 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1A1525"/>
+      <stop offset="50%" style="stop-color:#1E1830"/>
+      <stop offset="100%" style="stop-color:#16202E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8B5E6A"/>
+      <stop offset="100%" style="stop-color:#5E6E8B"/>
+    </linearGradient>
+    <filter id="soft">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="22" result="blur"/>
+      <feBlend in="SourceGraphic" in2="blur" mode="normal"/>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="900" height="140" fill="url(#bg)"/>
+
+  <!-- soft blobs -->
+  <circle cx="80" cy="30" r="70" fill="#6B3A4A" opacity="0.35" filter="url(#soft)"/>
+  <circle cx="820" cy="110" r="80" fill="#3A4A6B" opacity="0.3" filter="url(#soft)"/>
+  <circle cx="460" cy="140" r="60" fill="#5A3A6B" opacity="0.25" filter="url(#soft)"/>
+
+  <!-- accent line -->
+  <rect x="0" y="130" width="900" height="3" fill="url(#accent)" opacity="0.6"/>
+
+  <!-- name -->
+  <text x="450" y="68" text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="40" font-weight="400" letter-spacing="6"
+    fill="#E8D5E0">kavyabhand</text>
+
+  <!-- subtitle -->
+  <text x="450" y="98" text-anchor="middle"
+    font-family="'Courier New', Courier, monospace"
+    font-size="13" letter-spacing="3"
+    fill="#8B8EA8">computer engineering  ·  pune, maharashtra</text>
+</svg>
