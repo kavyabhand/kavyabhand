@@ -1,102 +1,53 @@
 <div align="center">
 
-<!-- Animated Header with Vintage Typography -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=300&section=header&text=Kavya%20Bhand&fontSize=70&fontColor=d4af37&animation=twinkling&fontAlignY=38&desc=++%20++%20&descAlignY=55&descSize=20"/>
-
-<!-- Vintage Ornamental Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Elegant Quote with Typewriter Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Fortis+Fortuna+Adiuvat;Veni+Vidi+Vici;Qui+Vivra+Verra;A+Legacy+In+The+Making;" alt="Typing SVG" />
-</p>
-
-<!-- Ornamental Divider -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![header](https://raw.githubusercontent.com/kavyabhand/kavyabhand/main/header-light.svg)
 
 </div>
 
 <br/>
 
-<!-- About Section with Regal Styling -->
+<!-- TERMINAL IDENTITY — doyoon530/terminal-identity -->
+ 
 <div align="center">
   
-### ⚜️ THIS IS ME ⚜️
-
+![terminal](https://terminal-identity-opal.vercel.app/api?name=Kavya+Bhand&username=kavyabhand&theme=obsidian/velvet&bio=B.Tech+Computer+Engineering+%7C+Pune%2C+Maharashtra%0AI+am+AI.+Crafted+with+purpose.)
+ 
 </div>
-
-<img align="right" alt="Coding" height="200" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
-
-```yaml
-name: "Kavya"
-located_in: "Pune, Maharashtra"
-current_focus: 
-  - Eat 
-  - Sleep 
-  - Repeat
-education: "B.Tech Computer Engineering"
-hobbies:
-  - Art
-  - Music
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Current Focus -->
-<div align="center">
-
-### ⚡ THIS IS A GRAPH ⚡
-
 <br/>
 
-<!-- Activity Graph with Dark Academia Colors -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyabhand&bg_color=0d1117&color=d4af37&line=c9922e&point=d4af37&area=true&hide_border=true&theme=github-dark" width="100%"/>
+
+<!-- STREAK STATS — DenverCoder1/github-readme-streak-stats -->
+
+<div align="center">
+
+![streak](https://streak-stats.demolab.com/?user=kavyabhand&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700&background=FDF6F0&ring=C9A0A0&fire=C9A0A0&currStreakLabel=9B8B9B&sideLabels=9B8B9B&dates=9B8B9B&currStreakNum=4A3F5C&totalLabel=9B8B9B&sideNums=4A3F5C&stroke=F7EDF4)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<!-- Connect Section -->
-<div align="center">
-
-### 🎭 ESTABLISH CORRESPONDENCE 🎭
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyabhand&bg_color=1a0823&color=f1e4ff&line=ff3f87&point=ff6aa6&area=true&area_color=2d1240&hide_border=true" width="100%"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/kavya-bhand-786116277/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=d4af37&color=0d1117" />
-</a>
-<!-- <a href="https://twitter.com/YOUR_HANDLE">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=d4af37&color=0d1117" />
-</a> -->
-<a href="mailto:kavya.bhand0806@gmail.com">
-   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=d4af37&color=0d1117" /> 
-</a>
-<!-- <a href="https://YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=d4af37&color=0d1117" />
-</a> -->
+<!-- SPOTIFY — kittinan/spotify-github-profile -->
 
-<br/><br/>
+<div align="center">
 
-<!-- Visitor Counter with Vintage Style -->
-<img src="https://komarev.com/ghpvc/?username=kavyabhand&label=Voyagers&color=d4af37&style=for-the-badge" />
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=c0py2jzgxmadm3grcf8yynfoo&cover_image=true&theme=novatorem&show_offline=false&background_color=fdf6f0&interchange=false&bar_color=c9a0a0&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=c0py2jzgxmadm3grcf8yynfoo&redirect=true)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-<br/>
 
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=435&lines=Crafted+with+Purpose+%E2%9A%9C%EF%B8%8F;In+the+Year+of+MMXXIV)](https://git.io/typing-svg)
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-b8c8e8?style=flat-square&logo=linkedin&logoColor=4A3F5C)](https://www.linkedin.com/in/kavya-bhand-786116277/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-f2c4ce?style=flat-square&logo=gmail&logoColor=4A3F5C)](mailto:kavya.bhand0806@gmail.com)
+&nbsp;
+![views](https://komarev.com/ghpvc/?username=kavyabhand&style=flat-square&color=c9b8d8&label=views)
+
 </div>
