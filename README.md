@@ -11,7 +11,7 @@
  
 <div align="center">
   
-![terminal](https://terminal-identity-opal.vercel.app/api?name=Kavya+Bhand&username=kavyabhand&theme=obsidian/velvet&bio=B.Tech+Computer+Engineering+%7C+Pune%2C+Maharashtra%0AI+am+AI.+Crafted+with+purpose.)
+![terminal](https://terminal-identity-opal.vercel.app/api?name=Kavya&username=kavyabhand&role=tbd...&tagline=make+no+mistake+plsplspls&status=available+for+cool+internet+projects&command=npx+terminal-identity&theme=obsidian%2Fvelvet&avatar=GG&pattern=grid&width=980&height=auto)
  
 </div>
 <br/>
